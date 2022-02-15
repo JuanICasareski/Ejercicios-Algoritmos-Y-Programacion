@@ -2,5 +2,5 @@
 
 - 3.4E
 - 7.10X
-- 8.X en adelante
+- 9.X en adelante
 
